@@ -7,5 +7,6 @@ int main()
     std::cout << "Enter number";
     std::cin >> j;
     std::cout << i+j;
+    std::cout << "Hello World";
     return 0;
 }
